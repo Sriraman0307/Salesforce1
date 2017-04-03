@@ -1,1 +1,1 @@
-web: java -cp target/classes/:target/dependency/* InvokeCallOut
+web: java -cp target/classes/:target/dependency/* InvokeCallOut.Main
