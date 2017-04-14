@@ -1,1 +1,1 @@
-web: java -cp classes.InvokeCallOut
+web: java -cp target/classes/:target/dependency/* classes.InvokeCallOut
